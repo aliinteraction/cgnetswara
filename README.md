@@ -16,3 +16,5 @@ Download the files from Superdesk folder from Github and upload it to /opt/super
 
 5. Restart Superdesk
 Restart Superdesk service using the command – sudo /etc/init.d/superdesk restart
+
+Note - To install mongo shell client, use this command - sudo apt-get install mongodb-org-shell
